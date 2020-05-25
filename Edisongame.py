@@ -37,6 +37,7 @@ for i in range(5):
     i=i+1
 print('thank you for playing')
     
+    print('test')
     
 
 
